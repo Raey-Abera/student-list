@@ -14,3 +14,4 @@ I would add a feature to display student's arrival time.
 ## Lessons Learned:
 
 I learned how to utilize an (empty) array and have its input displayed in the dom.
+# student-list
