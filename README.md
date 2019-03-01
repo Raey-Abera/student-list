@@ -15,3 +15,4 @@ I would add a feature to display student's arrival time.
 
 I learned how to utilize an (empty) array and have its input displayed in the dom.
 # student-list
+echo # student-list
